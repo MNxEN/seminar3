@@ -10,6 +10,7 @@
 
 ## Проверка состояния репозитория
 
+
  - git init
  - git status
  - git add \<filename>
@@ -26,3 +27,6 @@
  - git checkout master
  - git diff
  - git diff \<hash1> \<hash2>
+
+ # *Семинар 1. Домашнее задание*
+ 
